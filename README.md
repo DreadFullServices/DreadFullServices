@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @DreadFullServices
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-DreadFullServices/DreadFullServices is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 [Hi, I’m @DreadFullServices]
+📜[Json,Js,Java,Html,Css,.C,C++,Golang]
+👀[Collaborate on DreadFul Menu GTAV]
+💬[Discord:loveyoufams telegram: @dreadfulservices]
+⚠️[Pronoun's: Mr,Him,He.]
+⚡[Hobby's: Network+ & Sec+ & Dev.]
+🌐[Owner/Founder/Developer]🌐
+🌐(https://dreadfulservices.online)🌐
+🌐(https://dreadfulservices.xyz)🌐
+🌐(https://api.hightable.me)🌐
